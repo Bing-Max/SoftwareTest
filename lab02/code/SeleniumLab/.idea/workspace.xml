@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ca242af-0322-4eb2-82ef-c3073bfd8b2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/JavaLib/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\JavaLib\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZqX3uRvALHwwRVH10vkLdLfC1U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tools" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA-workspace\SeleniumLab\Tools" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA-workspace\SeleniumLab\src\main\resources" />
+      <recent name="E:\IDEA-workspace\SeleniumLab\src\main\resources\bing\lab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SeleniumTest.testSelenium">
+    <configuration name="ReadExcel.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li.util" />
+      <option name="MAIN_CLASS_NAME" value="com.li.util.ReadExcel" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bing.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bing.lab" />
+      <option name="MAIN_CLASS_NAME" value="bing.lab.SeleniumTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bing.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bing.lab" />
+      <option name="MAIN_CLASS_NAME" value="bing.lab.SeleniumTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.testSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bing.lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bing.lab" />
+      <option name="MAIN_CLASS_NAME" value="bing.lab.SeleniumTest" />
+      <option name="METHOD_NAME" value="testSelenium" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SeleniumLab" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SeleniumLab" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeleniumTest.testSelenium" />
+        <item itemvalue="JUnit.SeleniumTest.test" />
+        <item itemvalue="JUnit.ReadExcel.test" />
+        <item itemvalue="JUnit.SeleniumTest.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ca242af-0322-4eb2-82ef-c3073bfd8b2c" name="Default Changelist" comment="" />
+      <created>1585567401112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585567401112</updated>
+      <workItem from="1585567402357" duration="763000" />
+      <workItem from="1585568310261" duration="79000" />
+      <workItem from="1585568403704" duration="14122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="157" key="#Project_Structure" timestamp="1585570205121">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="348" y="157" key="#Project_Structure/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585570205121" />
+    <state x="240" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585570213475">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="240" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585570213475" />
+    <state x="238" y="114" width="1200" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585574975194">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="238" y="114" width="1200" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585574975194" />
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1585584367767">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864/-1366.0.1366.768@-1366.0.1366.768" timestamp="1585584367767" />
+    <state width="1342" height="283" key="GridCell.Tab.0.bottom/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585580313895" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1585584367767">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864/-1366.0.1366.768@-1366.0.1366.768" timestamp="1585584367767" />
+    <state width="1342" height="283" key="GridCell.Tab.0.center/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585580313895" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1585584367767">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864/-1366.0.1366.768@-1366.0.1366.768" timestamp="1585584367767" />
+    <state width="1342" height="283" key="GridCell.Tab.0.left/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585580313894" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1585584367767">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864/-1366.0.1366.768@-1366.0.1366.768" timestamp="1585584367767" />
+    <state width="1342" height="283" key="GridCell.Tab.0.right/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585580313895" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1585584367768">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864/-1366.0.1366.768@-1366.0.1366.768" timestamp="1585584367768" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585577421979" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1585584367768">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864/-1366.0.1366.768@-1366.0.1366.768" timestamp="1585584367768" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585577421979" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1585584367768">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864/-1366.0.1366.768@-1366.0.1366.768" timestamp="1585584367768" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585577421979" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1585584367768">
+      <screen x="-1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864/-1366.0.1366.768@-1366.0.1366.768" timestamp="1585584367768" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585577421979" />
+    <state x="339" y="168" key="Maven.ArtifactSearchDialog" timestamp="1585573910202">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="339" y="168" key="Maven.ArtifactSearchDialog/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585573910202" />
+    <state x="259" y="141" key="SettingsEditor" timestamp="1585570187957">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="259" y="141" key="SettingsEditor/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585570187957" />
+    <state x="552" y="276" key="chooseDestDirectoryDialog" timestamp="1585567779409">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="552" y="276" key="chooseDestDirectoryDialog/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585567779409" />
+    <state x="472" y="396" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585568147644">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="472" y="396" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1585568147644" />
+  </component>
+</project>
